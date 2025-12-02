@@ -1,0 +1,53 @@
+.logo {
+	margin-left: 2px;
+}
+body {
+	background-image: url("img_Arendt-NEW/Arendt_Bild4.png");
+	background-repeat: no-repeat;
+	color: rgb(255,255,255);
+	font-size: medium;
+	font-family:'Times New Roman', Times, serif;
+	background-size: cover;
+	text-align:center;
+}
+}
+
+h1, h2, h3 {
+  color: rgb(200,255,255);
+  font-weight: bold;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+  font-size: large;
+}
+
+	background-color: rgb(133, 133, 133);
+	color: rgb(0, 0, 0);
+	border: none;
+	padding: 10px 20px;
+	text-decoration: none;
+	display: inline-block;
+	font-size: medium;
+	margin: 4px 2px;
+	cursor: pointer;
+	transition: transform 0.2s; background-color: 2s;
+	border-radius: 12px;
+	font-family: 'Times New Roman', Times, serif;
+
+button:hover
+{
+	background-color: rgb(133, 133, 133);
+	color: rgb(0, 0, 0);
+	transform: scale(1.0787);
+	font-family: 'Times New Roman', Times, serif;
+}
+ 
+ a
+{
+	color:white;
+	text-decoration:underline;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+	
